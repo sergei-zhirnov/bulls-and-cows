@@ -1,0 +1,25 @@
+# Project exclude paths
+/.gradle/
+/Bulls and Cows/task/build/
+/Bulls and Cows/task/out/
+/Bulls and Cows/task/out/production/classes/
+/Topics/Inheritance/Simulating a zoo with lions and fish/out/
+/Topics/Inheritance/Simulating a zoo with lions and fish/out/production/classes/
+/Topics/Processing strings/Convert a date/out/
+/Topics/Processing strings/Convert a date/out/production/classes/
+/Topics/Processing strings/Cutting out the middle of a string/out/
+/Topics/Processing strings/Cutting out the middle of a string/out/production/classes/
+/Topics/Processing strings/Double characters/out/
+/Topics/Processing strings/Double characters/out/production/classes/
+/Topics/Processing strings/Finding the longest word in a sentence/out/
+/Topics/Processing strings/Finding the longest word in a sentence/out/production/classes/
+/Topics/Processing strings/Generating passwords/out/
+/Topics/Processing strings/Generating passwords/out/production/classes/
+/Topics/Processing strings/Modifying a string by changing letters and digits/out/
+/Topics/Processing strings/Modifying a string by changing letters and digits/out/production/classes/
+/Topics/Processing strings/Move the first N characters/out/
+/Topics/Processing strings/Move the first N characters/out/production/classes/
+/Topics/StringBuilder/Concat all strings without digits/out/
+/Topics/StringBuilder/Concat all strings without digits/out/production/classes/
+/Topics/StringBuilder/Create an email/out/
+/Topics/StringBuilder/Create an email/out/production/classes/

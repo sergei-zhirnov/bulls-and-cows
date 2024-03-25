@@ -1,0 +1,35 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: "// Required import statements\nimport java.util.*;\n\npublic class Main {\n\
+    \n    // Base class Animal is declared here\n    public abstract class Animal\
+    \ {\n        String name;\n        int age;\n\n        // Constructor for the\
+    \ Animal class\n        public Animal(String name, int age) {\n            //\
+    \ WRITE CODE HERE\n        }\n\n        // Getter and Setter for 'name' and 'age'\
+    \ fields\n        // WRITE CODE HERE\n\n        // toString method for the Animal\
+    \ class\n        public String toString() {\n            // WRITE CODE HERE\n\
+    \        }\n    }\n\n    // Class Lion which extends Animal\n    public class\
+    \ Lion extends Animal {\n\n        // Constructor for the Lion class\n       \
+    \ public Lion(String name, int age) {\n            super(name, age);\n       \
+    \     // WRITE CODE HERE\n        }\n\n        // Method roar for the Lion class\n\
+    \        public String roar() {\n           // WRITE CODE HERE\n        }\n  \
+    \  }\n\n    // Class Fish which extends Animal\n    public class Fish extends\
+    \ Animal {\n\n        // Constructor for the Fish class\n        public Fish(String\
+    \ name, int age) {\n            super(name, age);\n            // WRITE CODE HERE\n\
+    \        }\n\n        // Method swim for the Fish class\n        public String\
+    \ swim() {\n           // WRITE CODE HERE\n        }\n    }\n\n    // Function\
+    \ to simulate the Zoo depending on the input type and age\n    public String simulateZoo(String\
+    \ animalType, int age) {\n        // WRITE CODE HERE\n    } \n\n    // Main method\n\
+    \    public static void main(String[] args) {\n        Main zooSimulation = new\
+    \ Main();\n        String animalType; // This will get the animal type from an\
+    \ input\n        int age; // This will get the age from an input\n        // Call\
+    \ 'simulateZoo()' with 'animalType' and 'age' and print the result\n    }\n}"
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/45447#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 24 Mar 2024 14:49:24 UTC"
+record: -1
+submission_language: java17

@@ -1,0 +1,32 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+      
+          public static void main(String[] args) {
+              Scanner scanner = new Scanner(System.in);
+              int input = scanner.nextInt();
+      
+              try {
+                  // user code here
+              }
+              catch (ArithmeticException e) {
+                  System.out.println(e.getClass().getSimpleName());
+              }
+              catch (ArrayIndexOutOfBoundsException e) {
+                  System.out.println(e.getClass().getSimpleName());
+              }
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/40975#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 24 Mar 2024 17:25:38 UTC"
+record: -1
+submission_language: java17

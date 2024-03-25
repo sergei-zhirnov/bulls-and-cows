@@ -1,0 +1,12 @@
+content:
+  - Theory
+  - Handling exceptions based on input range
+  - Catching specific and general exceptions
+  - Checked exceptions
+  - Overview the hierarchy
+  - Unchecked exceptions
+  - The name of the base class
+  - The name of the base class (1)
+  - Overview the hierarchy (1)
+  - Base classes of RuntimeException
+  - Base class

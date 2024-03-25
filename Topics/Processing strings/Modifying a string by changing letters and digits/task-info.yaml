@@ -1,0 +1,27 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static String transformString(String s) {
+              // implement your string processing here
+              return "";
+          }
+      
+          public static void main(String[] args) {
+              Scanner input = new Scanner(System.in);
+              String s = input.nextLine();
+              System.out.println(transformString(s));
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/45347#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 23 Mar 2024 19:16:36 UTC"
+record: -1
+submission_language: java17
